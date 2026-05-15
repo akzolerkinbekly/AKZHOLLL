@@ -67,7 +67,7 @@ TechStore - заманауи электроника дүкенінің толы�
 ![FAQ](faq.png)
 
 ## 🌐 GitHub Pages
-Жобаны көру үшін: [https://ВАШ_ЛОГИН.github.io/web-portfolio-project/](https://ВАШ_ЛОГИН.github.io/web-portfolio-project/)
+Жобаны көру үшін: [https://akzolerkinbekly.github.io/AKZHOLLL/]
 
 ## 👨‍💻 Автор
 [Еркінбекұлы Ақжол] 
